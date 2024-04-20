@@ -1,0 +1,2 @@
+# The-Secure-Framework-to-Develop-Income-Tax-Fraud-Detection-using-AI-ML-Techniques
+Due to rapid growth in field of cashless or digital  transactions, credit cards are widely used in all  around the world. Credit cards providers are  issuing thousands of cards to their customers.  Providers have to ensure all the credit card users  should be genuine and real. Any mistake in issuing  a card can be reason of financial crises.  
